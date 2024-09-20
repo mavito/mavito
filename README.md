@@ -11,7 +11,7 @@
 ## Projects
 
 ### [Project 1: Data Visualization Dashboard](projects.md)
-### <a href="projects.md" style="text-decoration:none; color:inherit;">Project 1: Data Visualization Dashboard</a>
+### <a href="./projects.md" style="text-decoration:none; color:inherit;">Project 1: Data Visualization Dashboard</a>
 
 Created a real-time dashboard using Python, Plotly, and Dash to visualize key metrics from large datasets.
 
