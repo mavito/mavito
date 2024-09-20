@@ -2,11 +2,11 @@
 
 ## About Me
 
-![Main Image](images/ds.jpeg)<br>
+![Main Image](images/ds.jpeg)
 
-Hi, I'm a data scientist with a passion for machine learning, data analysis, and building impactful projects. I love exploring new technologies and sharing knowledge with others.
+<br>Hi, I'm a data scientist with a passion for machine learning, data analysis, and building impactful projects. I love exploring new technologies and sharing knowledge with others.
 
-Learn more [about me](about.md).<br>
+<br>Learn more [about me](about.md).
 
 ## Projects
 

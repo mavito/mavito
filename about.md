@@ -11,7 +11,9 @@ Here are a few things I love:
 - Analyzing complex datasets
 - Building machine learning models
 - Learning new technologies
-
+---
 Feel free to check out my [projects](projects.md)
+---
 Contact me at [manastokale@gmail.com](mailto:manastokale@gmail.com)
+---
 Go back [Home](README.md)
