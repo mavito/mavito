@@ -12,4 +12,4 @@ navbar:
   - name: About
     link: /about.md  # Links to the new about page
   - name: Projects
-    link: /README.md  # Links to the projects section in README.md
+    link: /projects.md  # Links to the projects section in README.md
