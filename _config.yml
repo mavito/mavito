@@ -8,10 +8,10 @@ plugins:
 
 # Add this to include your custom stylesheet
 include:
-  - /style.css
+  - style.css
 
 # Add the stylesheet to the head of your site
-markdown_css: /style.css
+markdown_css: style.css
 
 navbar:
   - name: Home
