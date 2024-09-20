@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #bace73;
 }
 
 header {
@@ -24,13 +24,13 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #31a588;
     text-decoration: none;
 }
 
 section {
     padding: 2rem;
-    background: #fff;
+    background: #963867;
     margin: 1rem;
     border-radius: 8px;
 }
@@ -43,5 +43,5 @@ footer {
     text-align: center;
     padding: 1rem;
     background: #333;
-    color: #fff;
+    color: #f52749;
 }
