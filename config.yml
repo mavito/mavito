@@ -1,3 +1,19 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "My Portfolio"
+description: "A simple personal portfolio built with GitHub Pages"
+theme: jekyll-theme-cayman # You can choose other GitHub Pages themes here
+baseurl: "" # Leave empty unless the site is hosted in a subdirectory
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+
+# Social media links
+social_links:
+  github: "https://github.com/yourusername"
+  linkedin: "https://linkedin.com/in/yourusername"
+
+# Navigation bar items
+nav:
+  - title: "About"
+    url: "#about"
+  - title: "Projects"
+    url: "#projects"
+  - title: "Contact"
+    url: "#contact"
