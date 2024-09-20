@@ -1,3 +1,7 @@
 title: My Portfolio
 description: A showcase of my projects and experience.
-theme: jekyll-theme-cayman  # You can replace this with any other GitHub Pages supported theme.
+#theme: jekyll-theme-cayman  # You can replace this with any other GitHub Pages supported theme.
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
