@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "A simple personal portfolio built with GitHub Pages"
-theme: jekyll-theme-cayman # You can choose other GitHub Pages themes here
+theme: jekyll-theme-minimal # You can choose other GitHub Pages themes here
 baseurl: "" # Leave empty unless the site is hosted in a subdirectory
 url: "https://mavito.github.io" # Replace with your GitHub Pages URL
 
