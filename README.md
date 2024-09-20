@@ -1,9 +1,8 @@
 # My Portfolio
 
 ## About Me
-![Profile Image](images/weeknd.jpg)
 
-Hi, I'm a data scientist with a passion for machine learning, data analysis, and building impactful projects. I love exploring new technologies and sharing knowledge with others.
+Learn more about me on the [About](about.md) page.
 
 ## Projects
 
