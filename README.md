@@ -10,7 +10,7 @@
 
 ## Projects
 
-### Project 1: Data Visualization Dashboard
+### [Project 1: Data Visualization Dashboard](projects.md)
 Created a real-time dashboard using Python, Plotly, and Dash to visualize key metrics from large datasets.
 
 ### Project 2: Machine Learning Model for Predictive Analytics
