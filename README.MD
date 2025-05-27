@@ -5,6 +5,8 @@
   <br>
   <h4>I am Manas 🔧</h4>
   <br>
+  <h3>Who Am I?</h3>
+  <br>
   <marquee behavior="scroll" direction="left" scrollamount="8">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Scientist;AI/ML+Engineer;Cloud+Native+Builder;Certified+Cloud+Practitioner;Causal+Analysis;Generative+AI;AWS+NLP+Vision" alt="Typing SVG" />
   </marquee>
