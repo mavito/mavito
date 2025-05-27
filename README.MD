@@ -8,6 +8,10 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manastokale)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokale2@illinois.edu)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManasTokale)
+<a href="https://duckdb.org" title="DuckDB"><img src="https://img.shields.io/badge/-DuckDB-3A3A3A?style=flat-square&logo=duckduckgo&logoColor=white"/></a>
+<a href="https://opencv.org" title="OpenCV"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
+<a href="https://www.langchain.com" title="LangChain"><img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logoColor=white"/></a>
+
 </div>
 
 ---
@@ -19,25 +23,25 @@
 
 ---
 
-### ⚙️ Tech I Use
+### ⚙️ Tech Tag Cloud
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></a>
+<a href="https://www.r-project.org"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>
+<a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/></a>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<a href="https://pytorch.org"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<a href="https://huggingface.co"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<a href="https://cloud.google.com"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>
+<a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=azure-devops&logoColor=white"/></a>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi"/></a>
+<a href="https://jupyter.org"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
+<a href="https://lookerstudio.google.com"><img src="https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
 
 </div>
 
