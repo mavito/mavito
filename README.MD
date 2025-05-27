@@ -3,7 +3,8 @@
   <img src="https://preview.redd.it/how-popular-was-obi-wans-hello-there-in-anh-until-rots-came-v0-a2t3qburcrka1.jpg?width=320&crop=smart&auto=webp&s=e22fda155446ed4bc3c31518f20eb49bfa557e67" alt="Obi-Wan Kenobi Hello There" width="300"/>
 
   <br>
-  <p>I am Manas 👋<\p>
+  <p>I am Manas 👋</p>
+  <br>
   <marquee behavior="scroll" direction="left" scrollamount="8">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Scientist;AI/ML+Engineer;Cloud+Native+Builder;Certified+Cloud+Practitioner;Causal+Analysis;Generative+AI;AWS+NLP+Vision" alt="Typing SVG" />
   </marquee>
