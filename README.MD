@@ -50,4 +50,6 @@
 </div>
 
 ### 🚀 Selected Projects
---- <p style="font-size: 24px; margin: 0;">⬇️ ⬇️ ⬇️</p> ---
+<hr>
+<p align="center" style="font-size: 24px; font-weight: bold; letter-spacing: 4px;">V V V</p>
+<hr>
