@@ -29,33 +29,15 @@
 <a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></a>
 <a href="https://pytorch.org" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/></a>
 <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/></a>
-<a href="https://scikit-learn.org" title="Scikit-learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="60" height="60"/></a>
+<a href="https://scikit-learn.org" title="Scikit-learn"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="60" height="60"/></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/></a>
-<a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://aws.amazon.com/?nc2=h_lg" width="60" height="60"/></a>
 <a href="https://cloud.google.com/" title="GCP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60"/></a>
-<a href="https://azure.microsoft.com/" title="Azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60"/></a>
 <a href="https://opencv.org/" title="OpenCV"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/></a>
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/></a>
 <a href="https://github.com/langchain-ai/langchain" title="LangChain"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60"/></a>
-<a href="https://duckdb.org" title="DuckDB"><img src="https://seeklogo.com/images/D/duckdb-logo-5E8CD0E20F-seeklogo.com.png" width="60" height="60"/></a>
-
-<<<<<<< HEAD
-=======
-<a href="https://pytorch.org"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
-<a href="https://huggingface.co"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
-<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
-
-<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
-<a href="https://cloud.google.com"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>
-<a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=azure-devops&logoColor=white"/></a>
-
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi"/></a>
-<a href="https://jupyter.org"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-<a href="https://lookerstudio.google.com"><img src="https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
-
->>>>>>> ed411c5d74bb281e8d02ebe0a48a790f078f7f5f
+<a href="https://duckdb.org" title="DuckDB"><img src="https://duckdb.org/images/logo-dl/DuckDB_Logo-horizontal.svg" width="60" height="60"/></a>
 </div>
 
 ---
