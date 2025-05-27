@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Scientist;AI/ML+Engineer;Cloud+Native+Builder;Certified+Cloud+Practitioner" alt="Typing SVG" />
   </marquee>
 
+  <br>
 
   <marquee behavior="scroll" direction="left" scrollamount="8">
     Data Scientist &nbsp; • &nbsp; AI/ML Engineer &nbsp; • &nbsp; Cloud-Native Builder &nbsp; • &nbsp; Certified Cloud Practitioner
