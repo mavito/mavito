@@ -29,10 +29,10 @@
 <a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></a>
 <a href="https://pytorch.org" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/></a>
 <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/></a>
-<a href="https://scikit-learn.org" title="Scikit-learn"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="60" height="60"/></a>
+<a href="https://scikit-learn.org" title="Scikit-learn"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" height="60"/></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/></a>
-<a href="https://aws.amazon.com/" title="AWS"><img src="https://aws.amazon.com/?nc2=h_lg" width="60" height="60"/></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://d0.awsstatic.com/logos/powered-by-aws.png" width="60" height="60"/></a>
 <a href="https://cloud.google.com/" title="GCP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60"/></a>
 <a href="https://opencv.org/" title="OpenCV"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/></a>
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/></a>
