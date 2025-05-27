@@ -32,7 +32,7 @@
 <a href="https://scikit-learn.org" title="Scikit-learn"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" height="60"/></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/></a>
-<a href="https://aws.amazon.com/" title="AWS"><img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" width="90" height="60"/></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" width="110" height="60"/></a>
 <a href="https://cloud.google.com/" title="GCP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60"/></a>
 <a href="https://opencv.org/" title="OpenCV"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/></a>
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/></a>
