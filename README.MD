@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Manas Tokale 👋</h1>
-  <h4>Data Scientist • AI Engineer • Cloud-Native Builder</h4>
+  <img src="https://media.tenor.com/UNmBZHmUG7MAAAAC/hello-there-general-kenobi.gif" alt="Obi-Wan Kenobi Hello There" width="300"/>
+  <h4> Data Scientist • AI/ML Engineer • Cloud-Native Builder</h4>
   <p>MSBA @ UIUC · Ex-Technokart · Causal + Generative AI · AWS · NLP · Vision</p>
   
   <br>
