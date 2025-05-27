@@ -1,5 +1,5 @@
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="7897520" data-share-method="host" data-aspect-ratio="1.85246" data-width="100%"><a href="https://tenor.com/view/obiwan-hellothere-gif-7897520">Obiwan Hellothere GIF</a>from <a href="https://tenor.com/search/obiwan-gifs">Obiwan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FStarWars%2Fcomments%2F11dfz9n%2Fhow_popular_was_obiwans_hello_there_in_anh_until%2F&psig=AOvVaw28x_mToqFUbjjrdOzIoVzr&ust=1748408566799000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICNhdfvwo0DFQAAAAAdAAAAABAE" alt="Obi-Wan Kenobi Hello There" width="300"/>
   <h4> Data Scientist • AI/ML Engineer • Cloud-Native Builder</h4>
   <p>MSBA @ UIUC · Ex-Technokart · Causal + Generative AI · AWS · NLP · Vision</p>
   
