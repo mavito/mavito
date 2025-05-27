@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FStarWars%2Fcomments%2F11dfz9n%2Fhow_popular_was_obiwans_hello_there_in_anh_until%2F&psig=AOvVaw28x_mToqFUbjjrdOzIoVzr&ust=1748408566799000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICNhdfvwo0DFQAAAAAdAAAAABAE" alt="Obi-Wan Kenobi Hello There" width="300"/>
+  <img src="https://preview.redd.it/how-popular-was-obi-wans-hello-there-in-anh-until-rots-came-v0-a2t3qburcrka1.jpg?width=320&crop=smart&auto=webp&s=e22fda155446ed4bc3c31518f20eb49bfa557e67" alt="Obi-Wan Kenobi Hello There" width="300"/>
   <h4> Data Scientist • AI/ML Engineer • Cloud-Native Builder</h4>
   <p>MSBA @ UIUC · Ex-Technokart · Causal + Generative AI · AWS · NLP · Vision</p>
   
