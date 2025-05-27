@@ -42,31 +42,8 @@
 
 ---
 
-### 🚀 Selected Projects
-
-**🎬 MCU Actor Impact (Causal Inference)**  
-> Do Marvel films boost actor careers? Yes—by $$$ millions.
-- DiD models with actor-year fixed effects
-- API-based dataset from TMDb + RT + Mojo
-- [GitHub ↗](https://github.com/ManasTokale/mcu-impact-analysis)
-
-**📦 AWS Review Sentiment Pipeline**  
-> Big data NLP pipeline for Yelp reviews (2M+ records)
-- AWS Glue, Lambda, S3, Athena, Looker Studio
-- TextBlob-based polarity scoring
-- [GitHub ↗](https://github.com/ManasTokale/aws-yelp-pipeline)
-
-**🔐 Finger Anti-Spoof Detection (CV)**  
-> CNN to detect spoofed biometric prints in real-time
-- Used OpenCV + TensorFlow for liveness detection
-- [GitHub ↗](https://github.com/ManasTokale/fingerprint-spoof-detection)
-
----
-
 ### ✍️ Writing & Visuals
-- [📘 Marvel Impact: The Data Story](https://your-blog-link.com)
-- [📊 Forecasting Spend @ Synchrony Datathon](https://your-blog-link.com)
-- [📎 Automating ESG Scrapes via LangChain](https://your-blog-link.com)
+- [📘 How the Marvel Cinematic Universe Transformed Actor Careers](https://medium.com/@mtokale2/how-the-marvel-cinematic-universe-transformed-actor-careers-396c3a8eb39b)
 
 ---
 
@@ -75,3 +52,6 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=ManasTokale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
+### 🚀 Selected Projects
+---
