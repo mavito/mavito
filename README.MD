@@ -19,7 +19,7 @@
 ### 🧠 Snapshot
 - 🔍 Specializing in: Causal inference · Big data pipelines · LLM & NLP workflows
 - 🏗️ Building: Real-time detection systems · Agentic AI prototypes · Forecasting tools
-- 🌐 Domains touched: Fraud, Identity, Marketing, Entertainment Analytics
+- 🌐 Domains touched: Fraud/Anomaly Detection, Marketing, Entertainment Analytics
 
 ---
 
@@ -39,21 +39,3 @@
 <a href="https://github.com/langchain-ai/langchain" title="LangChain"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60"/></a>
 <a href="https://duckdb.org" title="DuckDB"><img src="https://duckdb.org/images/logo-dl/DuckDB_Logo-horizontal.svg" width="60" height="60"/></a>
 </div>
-
----
-
-### ✍️ Writing & Visuals
-- [📘 How the Marvel Cinematic Universe Transformed Actor Careers](https://medium.com/@mtokale2/how-the-marvel-cinematic-universe-transformed-actor-careers-396c3a8eb39b)
-
----
-
-<div align="center">
-  <sub><i>“Build for clarity. Analyze for cause. Deploy with scale.”</i></sub>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ManasTokale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-### 🚀 Selected Projects
-<hr>
-<p align="center" style="font-size: 24px; font-weight: bold; letter-spacing: 4px;">V V V</p>
-<hr>
